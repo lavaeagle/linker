@@ -24,7 +24,7 @@ Finally, add Linker to your View master template, or individual views with :
 
 just after your closing `body` tag!
 
-Go to: http://mywebsite.local/linker/main/dashboard
+Go to: http://mywebsite.local/linker
 
 Find them errors!
 

@@ -80,7 +80,7 @@
 
               <li>
                 Bookmark this to activate/deactivate Linker
-                <a href='<?php echo url( 'linker/main/dashboard' ) ?>' target='_blank'><?php echo url( 'linker/main/dashboard' ) ?></a>
+                <a href='<?php echo url( 'linker' ) ?>' target='_blank'><?php echo url( 'linker' ) ?></a>
               </li>
             </ol>
           </p>
