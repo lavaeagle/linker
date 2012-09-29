@@ -18,7 +18,7 @@ Now simply add linker to your `application/bundles.php` with auto start enabled 
 
 Finally, add Linker to your View master template, or individual views with :
 
-    {{ Linker::render(); }}
+    {{ Linker::render() }}
     // or
 	<?php Linker::render(); ?>
 

@@ -73,7 +73,7 @@
 
               <li>
                 Add this all to the bottom of layouts you want tested.
-                <pre>{{ Linker::render(); }}
+                <pre>{{ Linker::render() }}
 // or
 &lt;?php Linker::render(); ?&gt;</pre>
               </li>
