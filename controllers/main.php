@@ -2,6 +2,11 @@
 
 class Linker_Main_Controller extends Base_Controller {
 
+    public function get_index()
+    {
+        return Redirect::to( 'linker/main/dashboard' );
+    }
+
     public function get_dashboard() {
 
         $activated = Session::has( 'linker' );

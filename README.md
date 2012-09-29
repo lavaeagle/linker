@@ -1,6 +1,7 @@
 #Linker
 
 Find errors in your application by simulating users clicking through your site.
+While Linker is checking for errors automatically, you can continue working.
 
 ##Installation
 
