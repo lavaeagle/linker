@@ -12,6 +12,7 @@ return array(
         '#',
         'logout',
         'mailto:',
+        'download',
         'callto:',
         'javascript:',
 	),

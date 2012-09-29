@@ -22,7 +22,7 @@ Finally, add Linker to your View master template, or individual views with :
     // or
 	<?php Linker::render(); ?>
 
-just after your closing `body` tag!
+just before your closing `body` tag!
 
 Go to: http://mywebsite.local/linker
 
